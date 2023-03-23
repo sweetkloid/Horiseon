@@ -9,7 +9,7 @@
 
 ## Usage
 
-Linked here is to the github site that houses the information on this mock up [Github] https://github.com/sweetkloid/Horiseon
+Linked here is to the github site that houses the information on this mock up [Github](https://github.com/sweetkloid/Horiseon)
 
 A screen shot of the webpage is attached: [Horiseon](assets/images/Screenshot%202023-03-23%20193512.jpg)
 
