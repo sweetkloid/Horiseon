@@ -1,21 +1,11 @@
 # Horiseon
 
-#Descriptions
+## Descriptions
 
 - The purpose behind this project is to make this webpage more accesbile for users.
 - This project was done was to make sure everything was working (clickable) on the webpage. Behind the scences we wanted to make sure the HTML was readable from top to bottom. Make sure to add a better structure using semantic elements. We also adjust the CSS to condense how long it was. A lot of the properties had the same style strucure and could be added together for the same effect.
 - Doing these changes helped make the webiste more accesible. The users will not run into any issues when clinking clink buttons. It helped make the HTML and CSS easier to read when looked apon by other people.
 - There are multiple different ways to write HTML and CSS code to get the same results. The purpose of making them as clear and condensed is so that it can be read by multiple readers and come across as clear as possible.
-
-### Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 
 ## Usage
 
